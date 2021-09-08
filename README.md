@@ -1,5 +1,7 @@
 # Fallout 4 Modlist
 
+## Table of Contents
+
 0. **[Readme](./README.md)**
 1. [Base](./1.BASE.md)
 2. [Bugfixes](./2.BUGFIXES.md)
